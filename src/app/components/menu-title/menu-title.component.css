@@ -1,0 +1,13 @@
+.container-menu{
+    color: white;
+    
+}
+.container-menu > h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 100px;
+    font-weight: bold;
+    display: flex;
+    font-family: 'Segoe UI';
+    justify-content: center;
+}
