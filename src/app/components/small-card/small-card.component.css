@@ -1,0 +1,23 @@
+.containter-small-card {
+    width: 700px;
+    margin-bottom: 15px;
+}
+.container-small-card-content{
+    display: flex;
+    flex-direction: row;
+}
+.small-card-picture>img {
+    width: 300px;
+    min-width: 300px;
+    margin-right: 30px;
+}
+
+.small-card-name {
+    display: flex;
+    font-family: 'Segoe UI';
+    justify-content: center;
+    align-items: center;
+}
+.containter-small-card-separator{
+    margin-top: 10px;
+}
